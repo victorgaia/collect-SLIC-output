@@ -3,7 +3,7 @@
 ## Sobre a ferramenta:
 
 Ferramenta que detecta security smells como hard-coded passwords em scripts Ansible. Referente ao trabalho Security Smells in Ansible and Chef Scripts: A Replication Study, dos autores Akond Rahman, Md. Rayhanur Rahman, Chris Parnin e Laurie Williams, disponível em: https://arxiv.org/abs/1907.07159.   
-Extraída da docker image https://hub.docker.com/r/akondrahman/slic_ansible
+Ferramenta extraída da docker image https://hub.docker.com/r/akondrahman/slic_ansible
 
 ## Como usar:
 No arquivo **AnsibleSmellDetector.py**:
