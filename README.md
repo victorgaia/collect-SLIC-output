@@ -11,7 +11,7 @@ No arquivo **AnsibleSmellDetector.py**:
  - Modificar o valor da variável  *output_file_* para o caminho de onde o arquivo .csv de saída deve ser criado.
 
 ## Sobre o trabalho em desenvolvimento:
-Utilização do SLIC for Ansible para identificar as ocorrências de smells em scrips de projetos particulares, com o intuito de comparar os resultados com os do artigo original supracitado, que analisa scripts de projetos abertos.
+Utilização do SLIC for Ansible para identificar as ocorrências de smells em scrips de projetos particulares.
 
 ##
 
